@@ -19,4 +19,4 @@
 <p align='center'> <b> CONTACT ME VIA </b> </p>
  <div align="center">
    <a href="https://www.instagram.com/alina_meishele/" table="_blank"> <img src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png' width='50px'> </a> 
-   <a href="https://t.me/AlinaMeis" table="_blank"> <img src=["https://flyclipart.com/telegram-logo-telegram-icon-png-398235"](https://www.picng.com/upload/telegram/png_telegram_65523.png) width='50px'></a> </div>
+   <a href="https://t.me/AlinaMeis" table="_blank"> <img src="https://flyclipart.com/telegram-logo-telegram-icon-png-398235") width='50px'></a> </div>
