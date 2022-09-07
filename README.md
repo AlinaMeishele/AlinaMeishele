@@ -18,5 +18,5 @@
 <div>  <br> <br> </div>
 <p align='center'> <b> CONTACT ME VIA </b> </p>
  <div align="center">
-   <a href="https://www.instagram.com/alina_meishele/" table="_blank"> INSTAGRAM </a> <br>
-   <a href="https://t.me/AlinaMeis" table="_blank"> TELEGRAM</a> </div>
+   <a href="https://www.instagram.com/alina_meishele/" table="_blank"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png> </a> <br>
+   <a href="https://t.me/AlinaMeis" table="_blank"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png> </a> </div>
