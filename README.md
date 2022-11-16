@@ -17,8 +17,8 @@
 <div align='center'>My EMAIL <b>alina.meishele.job@gmail.com </b></div><br>
 <div align='center'> or </div><br>
  <div align="center">
-   <a href="https://www.instagram.com/alina_meishele/" table="_blank"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png style="width:50px"> </a> 
-   <a href="https://t.me/AlinaMeis" table="_blank"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png style="width:50px"> </a> 
+   <a href="https://t.me/AlinaMeis"  table="_blank"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png style="width:50px"> </a> 
+   <a href="https://www.instagram.com/alina_meishele/"  table="_blank"> <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png style="width:50px"> </a> 
 </a> 
    <a href="https://www.linkedin.com/" table="_blank"> <img src=https://cdn-icons-png.flaticon.com/512/174/174857.png style="width:50px"> </a> </div>
    <br/>
